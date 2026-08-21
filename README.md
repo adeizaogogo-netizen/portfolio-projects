@@ -18,3 +18,12 @@ For each project README, I include the following to create an overview:
 > Screenshots of results or dashboard
 > Name scripts by execution order (01_, 02_) so a recruiter can reproduce the work easily.
 > Keep raw datasets out of Git when they are large or restricted; include a download link and a small sample instead.
+
+# Main title
+## Section heading
+### Small heading
+
+**bold text**
+*italic text*
+`inline code`
+
