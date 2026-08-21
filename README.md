@@ -10,7 +10,8 @@ The subfolders contain different data analysis and data engineering projects
 
 For each project README, I include the following to create an overview:
 > Business question/problem
-> Dataset source and license
+> 
+ > Dataset source and license
 > SQL dialect used (PostgreSQL, MySQL, SQL Server, BigQuery, etc.)
 > Schema or ERD
 > How to run scripts, in order
