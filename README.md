@@ -27,7 +27,8 @@ For each project README, I include the following in an "executive summary" of th
 *italic text*
 `inline code`
 - bullet text
+- folder layout
     - data
     - documents
+    - images
     - scripts
-    - 
