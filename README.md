@@ -8,7 +8,7 @@ The subfolders contain different data analysis and data engineering projects
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Project Overview
 
-For each project README, I include the following to create an overview:
+For each project README, I include the following in an "executive summary" of the project:
 - Business question/problem
 - Dataset source and license
 - SQL dialect used (PostgreSQL, MySQL, SQL Server, BigQuery, etc.)
@@ -26,4 +26,4 @@ For each project README, I include the following to create an overview:
 **bold text**
 *italic text*
 `inline code`
-- bulleted text
+- bullet text
