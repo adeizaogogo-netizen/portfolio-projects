@@ -1,7 +1,7 @@
 
 # Portfolio Projects
 
-Welcome to my Portfolio Projects** repository.
+Welcome to my **Portfolio Projects** repository.
 
 The subfolders contain different data analysis and data engineering projects
 
